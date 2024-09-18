@@ -12,3 +12,7 @@ https://www.intamedia.ir/Portals/0/news/Terminals/TaxCollectData.Library.0.0.20.
 
 توجه داشته باشید : تمام متغیر های موجود در آرایه ای که در کلاس SendInvoiceClass.cs پر شده .در داکیومنتی که پایین گزاشتم خود دارایی توضیح داده که چی هست و از چه مقادیری پر می شود.
 https://www.intamedia.ir/Portals/0/news/Terminals/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%A8%D9%87%20%D8%B2%DB%8C%D8%B1%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87%20%D8%AC%D9%85%D8%B9%20%D8%A2%D9%88%D8%B1%DB%8C%20SDK%20%D8%A8%D8%AF%D9%88%D9%86%20%DA%AF%D9%88%D8%A7%D9%87%DB%8C-%D8%AF%D8%A7%D8%AA%20%D9%86%D8%AA_3.pdf?ver=wE3T9mtWj6ehyVIbRDsu3A%3d%3d
+
+
+============================================================================================
+تولید کننده : امیر سلیمانی.
